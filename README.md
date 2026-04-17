@@ -31,10 +31,10 @@ This project focuses on detecting fraudulent transactions in e-commerce using ma
 
 ---
 
-## 🤖 Models Used
+## 🤖 Classification Models Used
 
 * Logistic Regression
-* Random Forest (if used)
+* Random Forest 
 
 ---
 
